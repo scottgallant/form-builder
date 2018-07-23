@@ -16,6 +16,11 @@ form:
     type: textarea
     name: message
     label: Message
+  type: ''
 
 ---
-Use the form below to send us a message.
+This is an `<ol>` test
+
+1. One 
+   1. One B
+2. Two
